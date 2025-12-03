@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "export": "echo 'Static export completed during build'"
   },
   "dependencies": {
     "clsx": "^2.1.1",
